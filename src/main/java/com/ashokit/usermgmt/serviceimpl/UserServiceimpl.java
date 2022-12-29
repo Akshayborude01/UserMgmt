@@ -50,19 +50,19 @@ public class UserServiceimpl implements UserService {
 
 	@Override
 	public String unlockaccount(Unlockaccountform form) {
-		// TODO Auto-generated method stub
+
 		return null;
 	}
 
 	@Override
 	public String login(Loginform form) {
-		// TODO Auto-generated method stub
+
 		return null;
 	}
 
 	@Override
 	public String forgotpwd(String email) {
-		// TODO Auto-generated method stub
+
 		return null;
 	}
 
